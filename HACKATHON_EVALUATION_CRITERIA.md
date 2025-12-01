@@ -1,10 +1,10 @@
 # HACKATHON SUBMISSION - DETAILED EVALUATION CRITERIA RESPONSE
 
-## CATEGORY 1: THE PITCH (Problem, Solution, Value) - 30 Points
+## CATEGORY 1: THE PITCH (Problem, Solution, Value) - 30 
 
 ---
 
-## 1.1 CORE CONCEPT & VALUE (15 Points)
+## 1.1 CORE CONCEPT & VALUE (15 )
 
 ### Problem Statement (India Telecom Context)
 
@@ -118,7 +118,7 @@ TOTAL ANNUAL IMPACT: ₹420+ Cr (Cost Savings + Revenue)
 
 ---
 
-## 1.2 WRITEUP (15 Points)
+## 1.2 WRITEUP (15 )
 
 ### Problem Articulation
 
@@ -223,7 +223,7 @@ Layer 5: OBSERVABILITY
 
 **Phase 1: Problem Analysis** (Week 1)
 - Analyzed actual telecom support patterns
-- Identified pain points (scalability, compliance, cost)
+- Identified pain  (scalability, compliance, cost)
 - Researched existing solutions (all inadequate)
 - Defined success metrics
 
@@ -282,11 +282,11 @@ Layer 5: OBSERVABILITY
 
 ---
 
-## CATEGORY 2: IMPLEMENTATION (Architecture & Code) - 70 Points
+## CATEGORY 2: IMPLEMENTATION (Architecture & Code) - 70 
 
 ---
 
-## 2.1 TECHNICAL IMPLEMENTATION (50 Points)
+## 2.1 TECHNICAL IMPLEMENTATION (50 )
 
 ### Feature 1: Multi-Agent Architecture
 
@@ -786,7 +786,7 @@ def get_customer_profile(customer_id: str) -> Dict[str, Any]:
 
 ---
 
-## 2.2 DOCUMENTATION (20 Points)
+## 2.2 DOCUMENTATION (20 )
 
 **Documentation Provided:**
 
@@ -835,11 +835,11 @@ def get_customer_profile(customer_id: str) -> Dict[str, Any]:
 
 ---
 
-## BONUS POINTS - 20 Points Total
+## BONUS  - 20  Total
 
 ---
 
-## 3.1 Effective Use of Gemini (5 Points)
+## 3.1 Effective Use of Gemini (5 )
 
 **Gemini Integration Throughout:**
 
@@ -898,7 +898,7 @@ billing_agent = LlmAgent(
 
 ---
 
-## 3.2 Agent Deployment (5 Points)
+## 3.2 Agent Deployment (5 )
 
 **Deployment Architecture:**
 
@@ -1051,7 +1051,7 @@ kubectl logs -f deployment/telecom-agent
 
 ---
 
-## 3.3 YouTube Video Submission (10 Points)
+## 3.3 YouTube Video Submission (10 )
 
 **Video Script (under 3 minutes):**
 
